@@ -11,3 +11,4 @@ layout: default
 * 제품 연구
     * [SHW-M380S 활용기 #1](./2021/08/28/SHW-M380S01.html)
     * [SHW-M380S 활용기 #2](./2023/07/09/SHW-M380S02.html)
+    * [YA-SBR510 스피커 리모컨 대체하기](./2023/07/11/YA-SBR510.html)
