@@ -8,6 +8,9 @@ layout: default
     * [Sequence Diagram](./2023/07/09/SequenceDiagram.html)
     * [Keyboard Maestro 소개](./2023/07/10/km.html)
 
+* 프로젝트 연구
+    * [Check Routine]
+
 * 제품 연구
     * [SHW-M380S 활용기 #1](./2021/08/28/SHW-M380S01.html)
     * [SHW-M380S 활용기 #2](./2023/07/09/SHW-M380S02.html)
@@ -17,3 +20,5 @@ layout: default
     * 퇴근 후 이기적인 반란
         * [퇴근 후 이기적인 반란 #0](./2023/07/12/books0.html)
         * [퇴근 후 이기적인 반란 #1](./2023/07/12/books1.html)
+        * [퇴근 후 이기적인 반란 #2](./2023/07/18/books2.html)
+        * [퇴근 후 이기적인 반란 #3](./2023/07/18/books3.html)
